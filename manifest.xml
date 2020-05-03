@@ -5,7 +5,6 @@
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
   <project name="coldflow.git" path="coldflow" />
-  <project name="ctscloud.git" path="ctscloud" />
   <project name="diffmanifests.git" path="diffmanifests" />
   <project name="findprojects.git" path="findprojects" />
   <project name="flutterdocker.git" path="flutterdocker" />
@@ -17,6 +16,7 @@
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="repofetcher.git" path="repofetcher" />
+  <project name="teststorm.git" path="teststorm" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
   <project name="yamlcli.git" path="yamlcli" />
