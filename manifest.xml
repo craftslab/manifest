@@ -16,7 +16,6 @@
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="repofetcher.git" path="repofetcher" />
-  <project name="teststorm.git" path="teststorm" />
   <project name="vulnalyzer.git" path="vulnalyzer" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
