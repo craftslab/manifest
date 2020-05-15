@@ -12,6 +12,7 @@
   <project name="gorepo.git" path="gorepo" />
   <project name="langflow.git" path="langflow" />
   <project name="lintflow.git" path="lintflow" />
+  <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="repofetcher.git" path="repofetcher" />
