@@ -4,6 +4,7 @@
   <default revision="master" remote="origin" sync-j="1" />
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
+  <project name="coldflow.git" path="coldflow" />
   <project name="diffmanifests.git" path="diffmanifests" />
   <project name="findprojects.git" path="findprojects" />
   <project name="flutterdocker.git" path="flutterdocker" />
