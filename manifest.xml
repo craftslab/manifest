@@ -11,6 +11,7 @@
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gorepo.git" path="gorepo" />
+  <project name="gerritstats.git" path="gerritstats" />
   <project name="langflow.git" path="langflow" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintmanifest.git" path="lintmanifest" />
