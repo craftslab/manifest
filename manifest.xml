@@ -2,6 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="master" remote="origin" sync-j="1" />
+  <project name="actionflow.git" path="actionflow" />
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
   <project name="coldflow.git" path="coldflow" />
@@ -9,9 +10,10 @@
   <project name="findprojects.git" path="findprojects" />
   <project name="flutterdocker.git" path="flutterdocker" />
   <project name="gerritqueue.git" path="gerritqueue" />
+  <project name="gerritstats.git" path="gerritstats" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gorepo.git" path="gorepo" />
-  <project name="gerritstats.git" path="gerritstats" />
+  <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langflow.git" path="langflow" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintmanifest.git" path="lintmanifest" />
