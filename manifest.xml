@@ -13,6 +13,7 @@
   <project name="gerritstats.git" path="gerritstats" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gorepo.git" path="gorepo" />
+  <project name="gotekton.git" path="gotekton" />
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langflow.git" path="langflow" />
   <project name="lintflow.git" path="lintflow" />
