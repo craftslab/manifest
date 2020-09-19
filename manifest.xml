@@ -17,6 +17,7 @@
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
+  <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="vulnalyzer.git" path="vulnalyzer" />
