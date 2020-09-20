@@ -19,7 +19,7 @@
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
-  <project name="reposcrapy.git" path="reposcrapy" />
+  <project name="repospider.git" path="repospider" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
