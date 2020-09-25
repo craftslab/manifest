@@ -14,12 +14,12 @@
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langflow.git" path="langflow" />
+  <project name="langspider.git" path="langspider" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
-  <project name="repospider.git" path="repospider" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
