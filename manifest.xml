@@ -6,7 +6,6 @@
   <project name="androidgraph.git" path="androidgraph" />
   <project name="coldflow.git" path="coldflow" />
   <project name="diffmanifests.git" path="diffmanifests" />
-  <project name="findprojects.git" path="findprojects" />
   <project name="flutterdocker.git" path="flutterdocker" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
