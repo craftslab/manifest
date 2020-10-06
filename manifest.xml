@@ -2,7 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="master" remote="origin" sync-j="1" />
-  <project name="actionstream.git" path="actionstream" />
+  <project name="actionflow.git" path="actionflow" />
   <project name="actionview.git" path="actionview" />
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
