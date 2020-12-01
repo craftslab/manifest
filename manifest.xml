@@ -23,6 +23,7 @@
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
+  <project name="metalmetrics.git" path="metalmetrics" />
   <project name="metalview.git" path="metalview" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="pyunzip.git" path="pyunzip" />
