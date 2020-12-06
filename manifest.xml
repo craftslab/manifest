@@ -12,6 +12,7 @@
   <project name="gerritmeter.git" path="gerritmeter" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
+  <project name="ging.git" path="ging" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
