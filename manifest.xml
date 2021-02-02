@@ -9,6 +9,7 @@
   <project name="codepop-vscode.git" path="codepop-vscode" />
   <project name="diffmanifests.git" path="diffmanifests" />
   <project name="flutterdocker.git" path="flutterdocker" />
+  <project name="gerritdocker.git" path="gerritdocker" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
   <project name="ging.git" path="ging" />
