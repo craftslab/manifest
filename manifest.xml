@@ -17,8 +17,8 @@
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langcrawler.git" path="langcrawler" />
-  <project name="lintbeat.git" path="lintbeat" />
   <project name="lintflow.git" path="lintflow" />
+  <project name="lintwork-aosp.git" path="lintwork-aosp" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
