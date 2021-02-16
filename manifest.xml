@@ -5,6 +5,7 @@
   <project name="actionflow.git" path="actionflow" />
   <project name="actionview.git" path="actionview" />
   <project name="androidbuild.git" path="androidbuild" />
+  <project name="androiddocker.git" path="androiddocker" />
   <project name="androidgraph.git" path="androidgraph" />
   <project name="codepop-vscode.git" path="codepop-vscode" />
   <project name="diffmanifests.git" path="diffmanifests" />
