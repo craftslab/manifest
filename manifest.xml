@@ -28,7 +28,8 @@
   <project name="metalmetrics.git" path="metalmetrics" />
   <project name="metalview.git" path="metalview" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
-  <project name="pythondocker.git" path="pythondocker" />
+  <project name="python2docker.git" path="python2docker" />
+  <project name="python3docker.git" path="python3docker" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
   <project name="theiadocker.git" path="theiadocker" />
