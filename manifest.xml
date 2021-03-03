@@ -36,5 +36,4 @@
   <project name="vuedemo.git" path="vuedemo" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
-  <project name="yamlcli.git" path="yamlcli" />
 </manifest>
