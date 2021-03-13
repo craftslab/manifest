@@ -20,8 +20,8 @@
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="lintflow.git" path="lintflow" />
-  <project name="lintaosp.git" path="lintaosp" />
   <project name="lintmanifest.git" path="lintmanifest" />
+  <project name="lintwork.git" path="lintwork" />
   <project name="mailsender.git" path="mailsender" />
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="metalbeat.git" path="metalbeat" />
