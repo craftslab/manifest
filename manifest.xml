@@ -15,6 +15,7 @@
   <project name="gerritstats.git" path="gerritstats" />
   <project name="ging.git" path="ging" />
   <project name="githubsearch.git" path="githubsearch" />
+  <project name="godiff.git" path="godiff" />
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langcrawler.git" path="langcrawler" />
