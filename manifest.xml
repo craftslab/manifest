@@ -32,6 +32,7 @@
   <project name="python3docker.git" path="python3docker" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
+  <project name="rustsender.git" path="rustsender" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="vuedemo.git" path="vuedemo" />
   <project name="werobot.git" path="werobot" />
