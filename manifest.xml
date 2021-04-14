@@ -14,7 +14,6 @@
   <project name="gerritdocker.git" path="gerritdocker" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
-  <project name="ging.git" path="ging" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
@@ -29,6 +28,7 @@
   <project name="metalmetrics.git" path="metalmetrics" />
   <project name="metalview.git" path="metalview" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
+  <project name="pipeflow.git" path="pipeflow" />
   <project name="python3docker.git" path="python3docker" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
