@@ -7,6 +7,7 @@
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androiddocker.git" path="androiddocker" />
   <project name="androidgraph.git" path="androidgraph" />
+  <project name="codeditor.git" path="codeditor" />
   <project name="codepop-vscode.git" path="codepop-vscode" />
   <project name="craftslab.git" path="craftslab" />
   <project name="diffmanifests.git" path="diffmanifests" />
@@ -34,7 +35,6 @@
   <project name="rustmail.git" path="rustmail" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="vuedemo.git" path="vuedemo" />
-  <project name="vueditor.git" path="vueditor" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
 </manifest>
