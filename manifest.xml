@@ -34,6 +34,7 @@
   <project name="rustmail.git" path="rustmail" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="vuedemo.git" path="vuedemo" />
+  <project name="vueditor.git" path="vueditor" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
 </manifest>
