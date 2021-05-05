@@ -26,7 +26,6 @@
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
   <project name="metalmetrics.git" path="metalmetrics" />
-  <project name="metalview.git" path="metalview" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="pipeflow.git" path="pipeflow" />
   <project name="python3docker.git" path="python3docker" />
