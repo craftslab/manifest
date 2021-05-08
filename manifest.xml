@@ -13,6 +13,7 @@
   <project name="diffmanifests.git" path="diffmanifests" />
   <project name="flutterdocker.git" path="flutterdocker" />
   <project name="gerritdocker.git" path="gerritdocker" />
+  <project name="gerritplugin.git" path="gerritplugin" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
   <project name="githubsearch.git" path="githubsearch" />
