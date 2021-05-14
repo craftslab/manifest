@@ -19,7 +19,6 @@
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
-  <project name="langbeat.git" path="langbeat" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="langflow.git" path="langflow" />
   <project name="langwork.git" path="langwork" />
