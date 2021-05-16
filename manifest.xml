@@ -21,7 +21,7 @@
   <project name="k8sdemo.git" path="k8sdemo" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="langflow.git" path="langflow" />
-  <project name="langwork.git" path="langwork" />
+  <project name="langview.git" path="langview" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="lintwork.git" path="lintwork" />
