@@ -22,7 +22,6 @@
   <project name="langcrawler.git" path="langcrawler" />
   <project name="langflow.git" path="langflow" />
   <project name="langview.git" path="langview" />
-  <project name="licenserisk.git" path="licenserisk" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="lintwork.git" path="lintwork" />
