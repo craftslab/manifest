@@ -30,6 +30,7 @@
   <project name="metalmetrics.git" path="metalmetrics" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="ossreport.git" path="ossreport" />
+  <project name="pipeapi.git" path="pipeapi" />
   <project name="pipeflow.git" path="pipeflow" />
   <project name="python3docker.git" path="python3docker" />
   <project name="pyunzip.git" path="pyunzip" />
