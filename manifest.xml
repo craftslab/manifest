@@ -28,9 +28,6 @@
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
-  <project name="metalmetrics.git" path="metalmetrics" />
-  <project name="metalmetrics-rs.git" path="metalmetrics-rs" />
-  <project name="metaltask.git" path="metaltask" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="ossreport.git" path="ossreport" />
   <project name="pipeapi.git" path="pipeapi" />
