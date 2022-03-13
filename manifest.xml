@@ -27,7 +27,6 @@
   <project name="lintflow.git" path="lintflow" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="lintwork.git" path="lintwork" />
-  <project name="lspproxy.git" path="lspproxy" revision="main"/>
   <project name="mailtrigger.git" path="mailtrigger" />
   <project name="metalbeat.git" path="metalbeat" />
   <project name="metalflow.git" path="metalflow" />
