@@ -41,6 +41,7 @@
   <project name="repofetcher.git" path="repofetcher" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="vuedemo.git" path="vuedemo" />
+  <project name="websocketdemo.git" path="websocketdemo" revision="main" />
   <project name="werobot.git" path="werobot" />
   <project name="wesearch.git" path="wesearch" />
 </manifest>
