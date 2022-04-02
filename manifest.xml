@@ -41,6 +41,7 @@
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
   <project name="theiadocker.git" path="theiadocker" />
+  <project name="tuidemo.git" path="tuidemo" revision="main" />
   <project name="vuedemo.git" path="vuedemo" />
   <project name="websocketdemo.git" path="websocketdemo" revision="main" />
   <project name="werobot.git" path="werobot" />
