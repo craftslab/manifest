@@ -34,6 +34,7 @@
   <project name="monoraildocker.git" path="monoraildocker" revision="main" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="ossreport.git" path="ossreport" />
+  <project name="piperun.git" path="piperun" revision="main" />
   <project name="python3docker.git" path="python3docker" />
   <project name="pyunzip.git" path="pyunzip" />
   <project name="repofetcher.git" path="repofetcher" />
