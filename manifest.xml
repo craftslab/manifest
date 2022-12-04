@@ -19,7 +19,7 @@
   <project name="gerritplugin.git" path="gerritplugin" />
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
-  <project name="gerrittrigger.git" path="gerrittrigger" />
+  <project name="gerrittrigger.git" path="gerrittrigger" revision="main" />
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
