@@ -33,6 +33,7 @@
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="ossreport.git" path="ossreport" />
   <project name="python3docker.git" path="python3docker" />
+  <project name="reactnativedocker.git" path="reactnativedocker" />
   <project name="repofetcher.git" path="repofetcher" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="tuidemo.git" path="tuidemo" revision="main" />
