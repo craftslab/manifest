@@ -5,13 +5,11 @@
   <project name="actionflow.git" path="actionflow" />
   <project name="actionview.git" path="actionview" />
   <project name="androidbuild.git" path="androidbuild" />
-  <project name="androiddocker.git" path="androiddocker" />
   <project name="androidgraph.git" path="androidgraph" />
   <project name="checkblueprint.git" path="checkblueprint" revision="main" />
   <project name="codepop.git" path="codepop" />
   <project name="craftslab.git" path="craftslab" />
   <project name="diffmanifests.git" path="diffmanifests" />
-  <project name="flutterdocker.git" path="flutterdocker" />
   <project name="gerritaction.git" path="gerritaction" />
   <project name="gerritbuild.git" path="gerritbuild" />
   <project name="gerritdeploy.git" path="gerritdeploy" revision="main" />
