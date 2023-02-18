@@ -6,6 +6,7 @@
   <project name="actionview.git" path="actionview" />
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
+  <project name="bludle.git" path="bludle" />
   <project name="checkblueprint.git" path="checkblueprint" revision="main" />
   <project name="codepop.git" path="codepop" />
   <project name="craftslab.git" path="craftslab" />
