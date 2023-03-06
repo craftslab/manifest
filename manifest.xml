@@ -22,6 +22,7 @@
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sdemo.git" path="k8sdemo" />
+  <project name="ksclient.git" path="ksclient" revision="main" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailtrigger.git" path="mailtrigger" />
