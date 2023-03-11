@@ -21,7 +21,7 @@
   <project name="githubsearch.git" path="githubsearch" />
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
-  <project name="k8sdemo.git" path="k8sdemo" />
+  <project name="k8sapp.git" path="k8sapp" />
   <project name="ksclient.git" path="ksclient" revision="main" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="lintmanifest.git" path="lintmanifest" />
