@@ -23,7 +23,6 @@
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sapp.git" path="k8sapp" />
   <project name="k8soperator.git" path="k8soperator" revision="main" />
-  <project name="ksclient.git" path="ksclient" revision="main" />
   <project name="langcrawler.git" path="langcrawler" />
   <project name="lintmanifest.git" path="lintmanifest" />
   <project name="mailtrigger.git" path="mailtrigger" />
