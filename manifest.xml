@@ -20,6 +20,7 @@
   <project name="gerritqueue.git" path="gerritqueue" />
   <project name="gerritstats.git" path="gerritstats" />
   <project name="githubsearch.git" path="githubsearch" />
+  <project name="gitproto.git" path="gitproto" />
   <project name="gomail.git" path="gomail" />
   <project name="gorepo.git" path="gorepo" />
   <project name="k8sapp.git" path="k8sapp" />
