@@ -11,6 +11,7 @@
   <project name="codepop.git" path="codepop" />
   <project name="craftslab.git" path="craftslab" />
   <project name="diffmanifests.git" path="diffmanifests" />
+  <project name="dockerfiler.git" path="dockerfiler" revision="main" />
   <project name="fsexplorer.git" path="fsexplorer" revision="main" />
   <project name="gerritaction.git" path="gerritaction" />
   <project name="gerritbuild.git" path="gerritbuild" />
