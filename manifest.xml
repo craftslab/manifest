@@ -9,9 +9,9 @@
   <project name="bludle.git" path="bludle" revision="main" />
   <project name="checkblueprint.git" path="checkblueprint" revision="main" />
   <project name="codepop.git" path="codepop" />
+  <project name="copatcher.git" path="copatcher" revision="main" />
   <project name="craftslab.git" path="craftslab" />
   <project name="diffmanifests.git" path="diffmanifests" />
-  <project name="dockerfiler.git" path="dockerfiler" revision="main" />
   <project name="fsexplorer.git" path="fsexplorer" revision="main" />
   <project name="gerritaction.git" path="gerritaction" />
   <project name="gerritbuild.git" path="gerritbuild" />
