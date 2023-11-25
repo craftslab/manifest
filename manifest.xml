@@ -7,7 +7,7 @@
   <project name="androidbuild.git" path="androidbuild" />
   <project name="androidgraph.git" path="androidgraph" />
   <project name="bludle.git" path="bludle" revision="main" />
-  <project name="bundemo.git" path="bundemo" />
+  <project name="bundemo.git" path="bundemo" revision="main" />
   <project name="checkblueprint.git" path="checkblueprint" revision="main" />
   <project name="codepop.git" path="codepop" />
   <project name="copatcher.git" path="copatcher" revision="main" />
@@ -38,6 +38,7 @@
   <project name="python3docker.git" path="python3docker" />
   <project name="reactnativedocker.git" path="reactnativedocker" revision="main" />
   <project name="repofetcher.git" path="repofetcher" />
+  <project name="rpiauto.git" path="rpiauto" revision="main" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="tuidemo.git" path="tuidemo" revision="main" />
   <project name="vuedemo.git" path="vuedemo" />
