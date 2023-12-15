@@ -40,6 +40,7 @@
   <project name="reactnativedocker.git" path="reactnativedocker" revision="main" />
   <project name="repofetcher.git" path="repofetcher" />
   <project name="rpiauto.git" path="rpiauto" revision="main" />
+  <project name="rsmail.git" path="rsmail" revision="main" />
   <project name="theiadocker.git" path="theiadocker" />
   <project name="tuidemo.git" path="tuidemo" revision="main" />
   <project name="vuedemo.git" path="vuedemo" />
