@@ -35,7 +35,7 @@
   <project name="monoraildocker.git" path="monoraildocker" revision="main" />
   <project name="nodejsdemo.git" path="nodejsdemo" />
   <project name="ossreport.git" path="ossreport" />
-  <project name="podmanbuild.git" path="podmanbuild" revision="main" />
+  <project name="podman.git" path="podman" revision="main" />
   <project name="python3docker.git" path="python3docker" />
   <project name="reactnativedocker.git" path="reactnativedocker" revision="main" />
   <project name="repofetcher.git" path="repofetcher" />
